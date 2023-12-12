@@ -24,7 +24,7 @@ class Program
         Console.WriteLine(now.ToShortDateString());
 
         Console.WriteLine(now.ToLongDateString());
-
+         
         Console.WriteLine(now.ToShortDateString()); 
 
         Console.WriteLine(now.ToString("yyyy-MM-dd HH:mm")); //12 / 12 / 2023 12:51:55 PM
